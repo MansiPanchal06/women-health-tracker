@@ -5,7 +5,7 @@ import {
   getWaterHistory,
   resetTodayWater
 } from '../controllers/waterController.js';
-import { protect } from '../middleware/authMiddleware.js';
+import { protect } from '../middleware/authmiddleware.js';
 
 const router = express.Router();
 

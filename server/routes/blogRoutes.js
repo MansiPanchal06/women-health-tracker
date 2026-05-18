@@ -5,7 +5,7 @@ import {
   getBlogById,
   deleteBlog
 } from '../controllers/blogController.js';
-import { protect, adminOnly } from '../middleware/authMiddleware.js';
+import { protect, adminOnly } from '../middleware/authmiddleware.js';
 
 const router = express.Router();
 
