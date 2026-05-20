@@ -1,4 +1,4 @@
-import Mood from '../models/Mood.js';
+import Mood from '../models/mood.js';
 
 // ================================
 // ADD MOOD LOG
