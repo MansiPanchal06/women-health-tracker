@@ -1,4 +1,4 @@
-import Water from '../models/Water.js';
+import Water from '../models/water.js';
 
 // ================================
 // ADD WATER INTAKE
